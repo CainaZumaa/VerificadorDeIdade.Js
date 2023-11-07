@@ -45,7 +45,7 @@ function verificar() {
       }
     }
     res.style.textAlign = "center";
-    res.innerHTML = `Dectectamos: ${gênero} com ${idade} anos`;
+    res.innerHTML = `Detectamos: ${gênero} com ${idade} anos`;
     res.appendChild(img);
   }
 }
