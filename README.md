@@ -10,7 +10,7 @@
 ![image](https://github.com/CainaZumaa/VerificadorDeIdade.Js/assets/124850081/56d3b950-a617-4828-8899-939620a3643a)
 
 # Mulher Criança
-![image](https://github.com/CainaZumaa/VerificadorDeIdade.Js/assets/124850081/794818cd-c963-4110-ac0c-cb5afb77cb0f)
+![image](https://github.com/CainaZumaa/VerificadorDeIdade.Js/assets/124850081/66345d09-8d36-423b-a66d-f860a7d310f1)
 # Mulher Jovem
 ![image](https://github.com/CainaZumaa/VerificadorDeIdade.Js/assets/124850081/c46d7273-e8ab-49e7-8a2d-4331875d2330)
 # Mulher Adulta
